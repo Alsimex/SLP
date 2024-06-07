@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/SymbolVisitor.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/CompoundStm.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/IdExp.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/LeafVisitor.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/OpExp.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/LastExpList.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/PrettyPrintVisitor.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/Stm.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/AssignStm.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/PairExpList.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/NumExp.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/Visitor.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/StraightLine.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/ExpList.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/EseqExp.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/Exp.java</file>
+            <file>file:/C:/Users/Dayton/Documents/Prog%20Trans/StraightLine/src/straightline/PrintStm.java</file>
+        </group>
+    </open-files>
+</project-private>
